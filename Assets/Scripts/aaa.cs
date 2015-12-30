@@ -10,6 +10,7 @@ public class aaa : MonoBehaviour {
         int mainInaaa = 0;
         int branchInaaa = 0;
         int conflict = 0;
+        int conflict_solve = 0;
 	}
 	
 	// Update is called once per frame
