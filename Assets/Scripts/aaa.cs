@@ -7,6 +7,7 @@ public class aaa : MonoBehaviour {
 	void Start () {
         int a = 0;
         int b = 0;
+        int mainInaaa = 0;
 	}
 	
 	// Update is called once per frame
