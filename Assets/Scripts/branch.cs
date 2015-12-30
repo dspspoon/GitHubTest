@@ -1,14 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class aaa : MonoBehaviour {
+public class branch : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        int a = 0;
-        int b = 0;
-        int mainInaaa = 0;
-        int branchInaaa = 0;
+	
 	}
 	
 	// Update is called once per frame
