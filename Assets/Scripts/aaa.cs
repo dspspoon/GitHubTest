@@ -13,6 +13,7 @@ public class aaa : MonoBehaviour {
         int conflict_solve = 0;
         int conflict_solve_main = 0;
         int after_push = 0;
+        int after_push2 = 0;
 	}
 	
 	// Update is called once per frame
